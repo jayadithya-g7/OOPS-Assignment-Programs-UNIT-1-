@@ -24,6 +24,9 @@ OUTPUT IS GIVEN HERE
 ---
 ![image](https://github.com/user-attachments/assets/f5c35361-e4c3-4cc1-bafb-e18434bbcc3b)
 
+5] OUTPUT
+----
+![image](https://github.com/user-attachments/assets/099726d8-f177-489e-9eaf-e2634b6307f0)
 
 
 
