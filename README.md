@@ -13,6 +13,7 @@ Q-3]
 ![image](https://github.com/user-attachments/assets/4f331814-85cb-4987-9939-4d53e932e41f)
 
 Q-4] CHECK CODES IN 4A AND 4B
+---
 OUTPUT IS GIVEN HERE
 -----------------
 4A] OUTPUT
