@@ -20,7 +20,7 @@ public class Calculator {
     double num2 = scanner.nextDouble();
 
     double result = 0;
-
+//we use the concept of switch cases to make it a menu driven program
     switch (choice) {
       case 1:
         result = num1 + num2;
