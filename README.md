@@ -28,6 +28,8 @@ OUTPUT IS GIVEN HERE
 ----
 ![image](https://github.com/user-attachments/assets/099726d8-f177-489e-9eaf-e2634b6307f0)
 
-
+6] output
+-------
+![image](https://github.com/user-attachments/assets/f670d7a2-6ea3-4036-9fea-dba87f8304be)
 
 
