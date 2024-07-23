@@ -32,4 +32,9 @@ OUTPUT IS GIVEN HERE
 -------
 ![image](https://github.com/user-attachments/assets/f670d7a2-6ea3-4036-9fea-dba87f8304be)
 
+7] output
+---------
+<img width="463" alt="image" src="https://github.com/user-attachments/assets/58a9b357-c33d-40e3-8c1e-c45a8b0aa935">
+
+
 
